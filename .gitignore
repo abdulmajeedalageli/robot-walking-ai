@@ -1,0 +1,23 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+
+# Downloaded Hugging Face Models & Cache
+.cache/
+*.zip
+*.pkl
+
+MUJOCO_LOG.TXT
+
+models/
+tb_logs/
